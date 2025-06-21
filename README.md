@@ -2,7 +2,7 @@
 
 ## Overview - AlarmKit Demonstration App
 
-Build this using Xcode 26 Beta.
+**NOTE**: This project was built using Xcode 26 Beta and uses AlarmKit which is currently still in Beta as at the time of this upload, API behavior and availability may change in future releases.
 
 This project showcases the capabilities of AlarmKit, a new framework introduced at WWDC25 that enables developers to schedule and manage alarms and timers in iOS.
 
